@@ -1,1 +1,0 @@
-UPDATED VERSION. Upload the extracted contents, not the ZIP itself. Replace all existing website files in the repository root. GitHub Pages: main branch, root folder.
