@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pmanphako-collab.github.io/mahlangu-attorneys-website/sitemap.xml
